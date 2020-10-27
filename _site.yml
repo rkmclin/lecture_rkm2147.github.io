@@ -1,0 +1,16 @@
+name: "my first website!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<mclin.7@osu.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/rkm2147/
+output:
+  html_document:
+    theme: cerulean
+    
+    

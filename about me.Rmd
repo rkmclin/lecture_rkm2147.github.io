@@ -1,0 +1,23 @@
+---
+title: "about meeeee"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+   
+---
+
+# stuff about me
+
+- i am left handed
+- i am from ohio
+- my favorite color is orange
+- i do not like coconuts or mushrooms :)
+
+
+
+
+
+
+
+

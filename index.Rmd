@@ -1,12 +1,33 @@
 ---
-title: "My awesome website"
+title: "My cool website"
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+  
 ---
 
-# This is Jeff's awesome website
+# This is Ronae's super cool website
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+I'm really glad i took this class even though it drives me crazy!!
+
+![](https://media.giphy.com/media/zHOzMlel57IEE/giphy.gif)
+
+
+
+
+
+can add code chunks
+```{r}
+
+```
+
+
+#links
+let's link to useful tools for dat science
+
+* [website to help you](https://p8105.com/making_websites.html)
+* [website to distract you](https://www.cnn.com)
+
+## link to page within the site
+[about meeeeeeee](about-me.html)
